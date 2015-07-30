@@ -1,6 +1,7 @@
 # Lean.tmbundle
 A [TextMate](http://macromates.com) bundle for the [Lean](https://leanprover.github.io) language. 
-This is also used by [github/linguist](https://github.com/github/linguist) to syntax-highlight Lean code in [github.com](http://github.com).
+This is also used by [github/linguist](https://github.com/github/linguist) to syntax-highlight Lean code in [github.com](http://github.com). Everytime [github/linguist](https://github.com/github/linguist) is newly released, github pulls the latest version of this repository.
+
 
 ## How to Install
 
