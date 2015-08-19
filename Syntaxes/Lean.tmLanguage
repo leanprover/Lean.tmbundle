@@ -39,7 +39,7 @@
                 </dict>
                 <dict>
                         <key>begin</key>
-                        <string>\b(inductive|structure|record|theorem|axiom|axioms|lemma|hypothesis|definition|constant)\b[ \t\n\r({\[]+([^ \t\n\r{(\[]*)</string>
+                        <string>\b(inductive|structure|record|theorem|proposition|axiom|axioms|lemma|hypothesis|definition|constant)\b[ \t\n\r({\[]+([^ \t\n\r{(\[]*)</string>
                         <key>beginCaptures</key>
                         <dict>
                                 <key>1</key>
