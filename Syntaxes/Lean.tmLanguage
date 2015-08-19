@@ -97,7 +97,7 @@
                 </dict>
                 <dict>
                         <key>match</key>
-                        <string>\b(calc|have|assert|suppose|this|obtains|suffices|to|show|by|in|at|let|forall|fun|exists|if|dif|then|else|assume|take|obtain|from)\b</string>
+                        <string>\b(calc|have|assert|suppose|this|obtains|suffices|show|by|in|at|let|forall|fun|exists|if|dif|then|else|assume|take|obtain|from)\b</string>
                         <key>name</key>
                         <string>keyword.other.lean</string>
                 </dict>
