@@ -85,7 +85,7 @@
                 </dict>
                 <dict>
                         <key>match</key>
-                        <string>\[persistent\]|\[notation\]|\[visible\]|\[instance\]|\[class\]|\[parsing-only\]|\[coercion\]|\[reducible\]|\[irreducible\]|\[wf\]|\[whnf\]|\[multiple-instances\]|\[decls\]|\[declarations\]|\[all-transparent\]|\[constructor\]|\[symm\]|\[refl\]|\[trans\]|\[recursor\]|\[unfold\]|\[unfold-all\]|\[congr\]|\[simp\]|\[coercions\]|\[classes\]|\[notations\]|\[abbreviations\]|\[begin-end-hints\]|\[tactic-hints\]|\[reduce-hints\]</string>
+                        <string>\[persistent\]|\[notation\]|\[visible\]|\[instance\]|\[class\]|\[parsing-only\]|\[coercion\]|\[reducible\]|\[quasireducible\]|\[semireducible\]|\[irreducible\]|\[wf\]|\[whnf\]|\[multiple-instances\]|\[decls\]|\[declarations\]|\[all-transparent\]|\[constructor\]|\[symm\]|\[refl\]|\[trans\]|\[recursor\]|\[unfold\]|\[unfold-all\]|\[congr\]|\[simp\]|\[coercions\]|\[classes\]|\[notations\]|\[abbreviations\]|\[begin-end-hints\]|\[tactic-hints\]|\[reduce-hints\]|\[no_pattern\]|\[forward\]|\[intro\]|\[intro!\]|\[elim\]|\[unify\]</string>
                         <key>name</key>
                         <string>storage.modifier.lean</string>
                 </dict>
