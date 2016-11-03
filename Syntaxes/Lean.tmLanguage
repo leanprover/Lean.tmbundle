@@ -97,7 +97,7 @@
                 </dict>
                 <dict>
                         <key>match</key>
-                        <string>\b(import|prelude|theory|protected|private|noncomputable|mutual|meta|definition|def|instance|renaming|hiding|exposing|parameter|parameters|begin|conjecture|constant|constants|hypothesis|lemma|corollary|variable|variables|premise|premises|print|theorem|example|abbreviation|context|open|as|export|axiom|inductive|with|structure|record|universe|universes|alias|help|override|precedence|reserve|postfix|prefix|infix|infixl|infixr|notation|vm_eval|eval|check|exit|end|using|namespace|section|local|set_option|extends|include|omit|class|classes|instances|metaclasses|raw)\b</string>
+                        <string>\b(import|prelude|theory|protected|private|noncomputable|mutual|meta|definition|def|instance|renaming|hiding|exposing|parameter|parameters|begin|conjecture|constant|constants|hypothesis|lemma|corollary|variable|variables|premise|premises|print|theorem|example|abbreviation|context|open|as|export|axiom|inductive|with|structure|record|universe|universes|alias|help|override|precedence|reserve|postfix|prefix|infix|infixl|infixr|notation|vm_eval|eval|check|exit|end|using|namespace|section|local|set_option|extends|include|omit|class|classes|instances|metaclasses|raw|run_command)\b</string>
                         <key>name</key>
                         <string>keyword.other.lean</string>
                 </dict>
