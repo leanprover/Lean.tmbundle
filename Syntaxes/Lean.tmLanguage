@@ -57,7 +57,7 @@
                         <string>[ \t\n\r{(\[]</string>
                         <key>name</key>
                         <string>meta.names.lean</string>
-                        <key>pattern</key>
+                        <key>patterns</key>
                         <array/>
                 </dict>
                 <dict>
